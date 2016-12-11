@@ -1,0 +1,3 @@
+vi tri : 0 3 7 8 
+tong vi tri : 4
+gia tri min : 1.200000

@@ -1,0 +1,10 @@
+ky tu	:	so luong
+a	:	4
+b	:	2
+c	:	2
+D	:	2
+e	:	1
+f	:	2
+h	:	1
+j	:	2
+K	:	1
